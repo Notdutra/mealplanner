@@ -2,7 +2,6 @@
 
 import { useState } from 'react';
 import { ChevronDown } from 'lucide-react';
-import { Card, CardContent } from '@/components/ui/card';
 
 const guidelines = [
   {

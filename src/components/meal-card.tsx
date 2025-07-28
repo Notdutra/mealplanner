@@ -1,6 +1,5 @@
 'use client';
 
-import { Card, CardContent } from '@/components/ui/card';
 import type { MealData, MealType } from '@/types/meal-plan';
 
 interface MealCardProps {

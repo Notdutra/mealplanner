@@ -1,6 +1,5 @@
 'use client';
 
-import { Button } from '@/components/ui/button';
 import type { DayGroup } from '@/types/meal-plan';
 
 interface MealPlanNavigationProps {
