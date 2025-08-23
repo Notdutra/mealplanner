@@ -15,6 +15,12 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: 'Meal Planner',
   description: 'A simple meal planning app',
+  themeColor: '#ffffff',
+    icons: {
+    icon: '/favicon.ico?v=3',
+    shortcut: '/favicon.svg',
+    apple: '/apple-touch-icon.png',
+  },
 };
 
 export default function RootLayout({
